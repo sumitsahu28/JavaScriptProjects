@@ -1,0 +1,79 @@
+
+
+
+body {
+  background-color: #333;
+  color: #333;
+  
+}
+footer {
+  text-align: center;
+  margin-top: 10px;
+  color:#fff;
+  a {
+    text-align: center;
+    color:#fff;
+  }
+}
+.quote-box {
+  position:relative;
+  margin:8% auto auto auto;
+  width:450px;
+  padding:40px 50px;
+  display:table;
+  background-color:#fff;
+}
+  .quote-text {
+    i{
+      font-size:1.0em;
+      margin-right: 0.4em;
+    }
+    text-align:center;
+    width:450px;
+    height:auto;
+    clear:both;
+    font-weight:500;
+    font-size:1.75em;
+  }
+  .quote-author {
+    width:450px;
+    height:auto;
+    clear:both;
+    padding-top:20px;
+    font-size:1em; 
+    text-align:right;
+  }
+  #new-quote {
+    display:block;
+    float: right;
+  }
+      
+ .fa {
+    padding: 5px;
+    font-size: 20px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+    
+  
+  
